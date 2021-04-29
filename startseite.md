@@ -2,6 +2,6 @@
 
 ## Folgende Module aus dem Studiengang Unternehmens- und Wirtschaftsinformatik (UIB) sollen im Folgenden vorgestellt werden: 
 
-- WEB 
-- PR2 
+- WEB (3. Semester)
+- PR2 (2. Semester)
 
