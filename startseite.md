@@ -1,13 +1,13 @@
-## Hallo und herzlich Willkommen zur iExpo der Hochschule Mannheim im Sommersemster 2021!
+# Hallo und herzlich Willkommen zur iExpo der Hochschule Mannheim im Sommersemster 2021!
 
-### WEB aus dem 3. Semster 
+# Folgende Module aus dem Studiengang Unternehmens- und Wirtschaftsinformatik (UIB) sollen im Folgenden vorgestellt werden:
+
+- WEB
+- PR2
 
 # Header 1
 ## Header 2
 ### Header 3
-
-- Bulleted
-- List
 
 1. Numbered
 2. List
