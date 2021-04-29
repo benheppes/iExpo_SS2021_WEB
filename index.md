@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Hallo und herzlich Willkommen zur iExpo der Hochschule Mannheim im Sommersemster 2021!
 
 You can use the [editor on GitHub](https://github.com/benheppes/iExpo_SS2021_WEB/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
